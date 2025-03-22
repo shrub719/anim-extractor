@@ -1,0 +1,8 @@
+{
+  "parts": [
+    { "name": "head", "marker": [255, 0, 255] },
+    { "name": "body", "marker": [255, 255, 0] }
+  ],
+  "input": "./frames",
+  "output": "./output"
+}
